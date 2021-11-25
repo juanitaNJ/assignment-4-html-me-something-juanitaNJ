@@ -1,11 +1,15 @@
 body {
-    background-color: rgb(196, 255, 235);
+    background-color: rgb(215, 255, 242);
 }
 
 .intro {
 
     background-color:rgb(131, 210, 255);
-    padding: 15px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
 
 }
 
@@ -14,6 +18,10 @@ body {
     background-color:rgb(233, 200, 248);
     color:rgb(130, 76, 216);
     padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 120px;
+    margin-left: 120px;
 
 }
 
@@ -26,20 +34,31 @@ body {
 h1 {
 
     color: rgb(41, 54, 172);
-    margin: 20px;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 80px;
+    margin-left: 80px;
 }
 
 header {
     
-    font-size: 25px;
-    margin: 20px;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 80px;
+    margin-left: 80px;
 
 }
 
 p {
 
-    font-size: 18px;
-    margin: 20px;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 80px;
+    margin-left: 80px;
+
 }
 
 #introparagraph {
@@ -58,7 +77,32 @@ footer {
 
     background-color:rgb(248, 200, 218);
     color: rgb(223, 0, 93);
-    margin: 10px;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 150px;
     padding: 20px;
+
+}
+
+.center {
+
+    text-align: center;
+    font-family: Monaco, monospace;
+    border: 3px;
+
+}
+
+.credits {
+
+    background-color:rgb(154, 255, 213);
+    color: rgb(23, 199, 102);
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 700px;
+    margin-left: 700px;
+    padding: 10px;
 
 }
